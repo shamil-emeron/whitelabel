@@ -1,0 +1,21 @@
+[
+ {
+  "app_logo_set": 0,
+  "application_logo": "https://app.emeron.io/files/Untitled (80 x 80 px).png",
+  "custom_navbar_title": "EMERON ERPNext",
+  "custom_navbar_title_style": "margin-left:180px;\ncolor:azure !important;",
+  "disable_new_update_popup": 1,
+  "disable_standard_footer": 1,
+  "docstatus": 0,
+  "doctype": "Whitelabel Setting",
+  "email_footer_address": "EMERON INFOSPACE",
+  "ignore_onboard_whitelabel": 1,
+  "logo_height": null,
+  "logo_width": null,
+  "modified": "2025-02-27 09:28:21.598849",
+  "name": "Whitelabel Setting",
+  "navbar_background_color": null,
+  "show_help_menu": 0,
+  "whitelabel_app_name": "EMERON INFOSPACE"
+ }
+]

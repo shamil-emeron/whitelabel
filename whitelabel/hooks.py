@@ -124,7 +124,8 @@ boot_session = "whitelabel.api.boot_session"
 # before_tests = "whitelabel.install.before_tests"
 
 fixtures = [
-    {"dt": "Custom Field", "filters": [["Translation","source_text","like","%ERPNext%"]]}
+    # {"dt": "Custom Field", "filters": [["Translation","source_text","like","%ERPNext%"]]},
+    {"dt": "Whitelabel Setting"}
 ]
 
 # Overriding Methods
